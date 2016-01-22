@@ -1,4 +1,8 @@
+language: python
+python:
+  - 2.7
+install: true
 script:
   - true
-archive: true
-cache: true
+#archive: true 
+#cache: true
